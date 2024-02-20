@@ -1,0 +1,13 @@
+{
+  "files.associations": {
+    "*.css": "tailwindcss",
+    "vector": "cpp",
+    "iostream": "cpp"
+  },
+  "favorites.resources": [
+    {
+      "filePath": "2D_array/printWave.cpp",
+      "group": "Default"
+    }
+  ]
+}
